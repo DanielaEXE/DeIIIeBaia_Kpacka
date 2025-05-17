@@ -16,30 +16,44 @@ div h1{
 .red {
     background-color: rgb(94, 11, 11);
     color: rgb(233, 108, 108);
+    line-height:120px;
+    font-weight: bold;
 }
 .orange {
     background-color: rgb(153, 104, 14);
     color: rgb(235, 195, 108);
+     line-height:120px;
+     font-weight: bold;
 }
 .yellow {
     background-color: rgb(158, 158, 12);
     color: rgb(233, 255, 106);
+     line-height:120px;
+     font-weight: bold;
 }
 .green {
     background-color: green;
     color: rgb(141, 243, 110);
+     line-height:120px;
+     font-weight: bold;
 }
 .l_blue {
     background-color: rgb(16, 98, 126);
     color: rgb(144, 240, 235);
+     line-height:120px;
+     font-weight: bold;
 }
 .blue {
     background-color: rgb(13, 13, 133);
     color: rgb(145, 125, 236);
+     line-height:120px;
+     font-weight: bold;
 }
 .purple {
     background-color: rgb(88, 11, 119);
     color: rgb(185, 114, 233);
+     line-height:120px;
+     font-weight: bold;
 }
 article {
     display: flex;
@@ -54,6 +68,13 @@ header{
     background-image: url("https://i.ibb.co/YB6FNYK8/Group-9.png");   
     background-repeat:no-repeat;
     background-size:cover;
+}
+footer{
+color: red;
+    background-image: url("https://i.ibb.co/YB6FNYK8/Group-9.png");   
+    background-repeat:no-repeat;
+    background-size:cover;
+  
 }
 header h1 {
     color:white;   
@@ -87,7 +108,7 @@ nav {
 article p {
     display: flex;
     justify-content: center;
-    font-size: larger;
+    font-size: 100%;
 }
 
 nav a{
@@ -103,6 +124,5 @@ nav a{
   text-decoration: none;
   
 }
-.rain {
-    width: 50%;
+main{
 }
