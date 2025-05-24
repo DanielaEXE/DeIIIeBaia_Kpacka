@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title> Главная </title>
+        <link rel="stylesheet" href="style2.css"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" >
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+    </head>      
+     <body> 
+     <header> 
+    <h1> радужные краски</h1>
+
+        </header>
+<nav><a href="https://danielaexe.github.io/DeIIIeBaia_Kpacka/"> наши краски </a></nav>
+        <main>
+            
+            <div class="Red1">
+                <img src="https://ltdfoto.ru/images/2025/05/03/Rectangle-9.png" >
+                <p> Здравствуйте, добро пожаловать в наш магазин красок!</p>
+            </div>
+
+            <div class="pipikl"> 
+                <img src="https://i.ibb.co/bjw0t2C0/Rectangle-18.png"/>
+                <article>
+                <p>В нашем магазине,мы даём возможность
+                    найти нужный цвет для того,или иного обьекта
+                    Вы с конфортом можете найти краски:</p>
+                    <ul> 
+                        <li>Акварельные</li> 
+                        <li>Акриловые</li>
+                        <li>Гуашь</li>
+                        <li>Масляные</li>
+                        <li>Темперные</li>
+                    </ul>
+                    </article>
+            </div>
+                <div class="iystalspasite">
+                    <p> Ещё вы можете немного поиграть с
+милыми монстриками, или лукисами
+(если,конечно они вас не съедят)</p>
+                   <img src="https://i.ibb.co/JwfpmYmd/Rectangle-19.png">
+                </div>
+             </main>
+        
+        <footer>
+
+<img src="https://i.ibb.co/CszvbWLz/Group-20.png">
+
+        </footer>
+    </body>
+</html>
